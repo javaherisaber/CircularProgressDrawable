@@ -1,0 +1,2 @@
+rootProject.name='CircularProgressDrawable'
+include ':app'
